@@ -16,5 +16,6 @@ Medial Axis Transform (MAT): Used for extracting river centerlines in the Larami
 /docs: Project abstract and the 'HydroMorphNet' framework overview.
 
 
-Tour Link: https://p.tourit.etx.asu.edu/v1fshqa2/7h0of1mq4paem4b/index.html
+Tour Link: [Laramie's Water Cycle – An Earth Observation Field Study](https://p.tourit.etx.asu.edu/v1fshqa2/7h0of1mq4paem4b/index.html)
+
 ArcGIS StoryMap: 
